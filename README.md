@@ -23,7 +23,7 @@ TNMG2678117_N1
 
 Download model:
 ```sh
-> wget https://www.dropbox.com/s/idq4uhu3ab012xg/model.pth?dl=0 -O model.zip
+> wget https://www.dropbox.com/s/idq4uhu3ab012xg/model.pth?dl=0 -O model.pth
 ```
 
 Download ecg-preprocessing and add it to your python path
